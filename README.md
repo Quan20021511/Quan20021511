@@ -22,6 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quan20021511&show_icons=true&locale=en" alt="quan20021511" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quan20021511&" alt="quan20021511" /></p>
-
-### My GitHub Contributions
-![Snake animation](https://github.com/Quan20021511/Quan20021511/blob/output/github-contribution-grid-snake.svg)
