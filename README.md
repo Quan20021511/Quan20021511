@@ -19,6 +19,10 @@
 <!-- Fun Fact -->
 - ⚡ Fun fact: **My favorite debugging tool is a rubber duck 🦆**
 
+- 🔭 I’m currently working on [Water pump control system](https://github.com/Quan20021511/Water-Pump-Control-System)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Quan20021511?tab=repositories](https://github.com/Quan20021511?tab=repositories)
+
 <!-- Connect with Me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
